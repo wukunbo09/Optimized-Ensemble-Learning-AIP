@@ -14,7 +14,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 file_paths = [
-     '/Optimized Ensemble Learning-AIP/data/external_data/17 new sequences/17_sequences_train+test.xlsx'
+     '/Optimized-Ensemble-Learning-AIP/data/external_data/17 new sequences/17_sequences_train+test.xlsx'
 ]
 
 

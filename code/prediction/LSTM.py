@@ -22,7 +22,7 @@ from collections import Counter
 from tensorflow.keras.layers import LSTM, Reshape
 
 file_paths = [
-    '/Optimized Ensemble Learning-AIP/data/external_data/training+test.xlsx'
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/training+test.xlsx'
 ]
 
 
