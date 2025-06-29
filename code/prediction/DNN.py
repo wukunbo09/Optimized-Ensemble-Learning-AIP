@@ -22,7 +22,7 @@ from collections import Counter
 
 
 file_paths = [
-    'C:/Users/波波/Desktop/生物/抗炎肽/Optimized Ensemble Learning-AIP/data/external_data/training+test.xlsx'
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/training+test.xlsx'
 ]
 
 

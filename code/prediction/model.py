@@ -22,7 +22,7 @@ from lightgbm import LGBMClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 
 file_paths = [
-    '/Optimized Ensemble Learning-AIP/data/external_data/training+test.xlsx'
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/training+test.xlsx'
 ]
 
 def process_file(file_path):

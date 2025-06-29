@@ -21,15 +21,15 @@ from collections import Counter
 plt.rcParams['font.family'] = 'Times New Roman'
 plt.rcParams.update({'font.size': 12})
 file_paths = [
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/AAC.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/PAAC.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/CTDC.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/CTDT.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/CTDD.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/Binary.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/Moran.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/QSOrder.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/AAIndex.xlsx'
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/AAC.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/PAAC.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/CTDC.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/CTDT.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/CTDD.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/Binary.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/Moran.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/QSOrder.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/AAIndex.xlsx'
 ]
 
 def process_file(file_path):

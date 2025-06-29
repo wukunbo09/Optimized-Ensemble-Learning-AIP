@@ -21,10 +21,10 @@ from imblearn.under_sampling import RandomUnderSampler
 plt.rcParams['font.family'] = 'Times New Roman'
 plt.rcParams.update({'font.size': 12})
 file_paths = [
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/AAC+CTDC.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/AAC+CTDC+CTDT.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/AAC+CTDC+CTDT+CTDD.xlsx',
-    '/Optimized Ensemble Learning-AIP/data/external_data/feature_encoding/AAC+CTDC+CTDT+CTDD+AAIndex.xlsx'
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/AAC+CTDC.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/AAC+CTDC+CTDT.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/AAC+CTDC+CTDT+CTDD.xlsx',
+    '/Optimized-Ensemble-Learning-AIP/data/external_data/feature_encoding/AAC+CTDC+CTDT+CTDD+AAIndex.xlsx'
 ]
 
 
