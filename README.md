@@ -12,3 +12,4 @@ Optimized Ensemble Learning with Multi-Feature Fusion for Enhanced Anti-Inflamma
 *  torch 2.6.0   
 ## Usage  
 * We provide model.py under the prediction folder. Just modify the file address in the code to the input data you are interested in.
+* If necessary, please contact wukunbo3091@163.com to obtain some files with a large amount of data.
